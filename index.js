@@ -3,8 +3,7 @@ function animationsSimplified() {
 
   elementsToSpin.forEach(element => {
     element.animate([
-      { transform: 'translateY(0px)' }, 
-      { transform: 'translateY(-300px)' }
+      { transform: 'rotate(360deg)' }
     ], {
       duration: 1000,
       iterations: Infinity
