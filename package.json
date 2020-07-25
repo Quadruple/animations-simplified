@@ -1,0 +1,19 @@
+{
+  "name": "animations-simplified",
+  "version": "1.0.1",
+  "description": "An easy animations library",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Quadruple/animations-simplified.git"
+  },
+  "author": "Atakan Atik",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Quadruple/animations-simplified/issues"
+  },
+  "homepage": "https://github.com/Quadruple/animations-simplified#readme"
+}
